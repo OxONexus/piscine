@@ -1,0 +1,64 @@
+body{
+	font-family: Arial;
+}
+h1 {
+	text-align: center;
+	font-size: 6vmin;
+}
+td {
+	border-style: solid;
+	width: 3vw;
+	height: 3vh;
+}
+.page {
+	 margin: auto;
+}
+.element{
+	text-align: center;
+	font-weight: bold;
+	font-size: 2vmin;
+}
+.element2{
+	text-align: center;
+	font-weight: bold;
+	font-size: 1vmin;
+}
+
+.weight{
+	text-align: right;
+	font-size: 1vmin;
+}
+.empty{
+	border-style: none;
+}
+
+.purple {
+	background-color: rgba(102, 51, 255,0.5);
+}
+.blue {
+	background-color: rgba(98, 115, 130, 0.5);
+}
+.brown {
+	background-color: rgba(102, 51, 0, 0.5);
+}
+.orange {
+	background-color: rgba(255, 102, 51, 0.5);
+}
+.pink {
+	background-color: rgba(255, 0, 204, 0.5);
+}
+.green1 {
+	background-color: rgba(40,255, 45,0.5);
+}
+.green2 {
+background-color: rgba(0,204,102,0.5);
+}
+.green3 {
+	background-color: rgba(0,153,51,0.5);
+}
+.grey {
+	background-color: rgba(125,125,125,0.5);
+}
+.yellow {
+	background-color: rgba(255,255,102,0.5);
+}
